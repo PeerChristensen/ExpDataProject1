@@ -1,3 +1,3 @@
 # ExpDataProject1
-files for the 1st course project
+files for the 1st course project.
 
